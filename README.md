@@ -39,7 +39,7 @@ NewDayProject\MovieRatings\target\MovieRatings-1.0-SNAPSHOT.jar \
 <Path for movies>\movies.DAT \
 <path for ratings >\ratings.DAT \
 <path for movie stats >\moviesStats.parquet  \
-<path for top movies >\ratings.parquet \
+<path for top movies >\ratings.parquet 
 
 
 
