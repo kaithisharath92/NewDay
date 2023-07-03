@@ -1,4 +1,4 @@
-**NEWDAY**
+**NEWDAY Assignment**
 
 ![image](https://github.com/kaithisharath92/NewDay/assets/132219522/9d3598cd-d4a4-45f9-915f-710a0cf6e4b1)
 
@@ -15,6 +15,7 @@ based on their rating.
 4. Write out the original and new dataframes in an efficient format of your choice.
 
 **Versions:**
+
 Java 1.8.0_202 
 Spark: 3.1.3
 IntelliJ idea: IntelliJ IDEA 2022.3.2 (Community Edition) 
