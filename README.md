@@ -1,4 +1,4 @@
-**NEWDAY Assignment**
+**NEWDAY ASSIGNMENT**
 
 ![image](https://github.com/kaithisharath92/NewDay/assets/132219522/9d3598cd-d4a4-45f9-915f-710a0cf6e4b1)
 
@@ -16,7 +16,8 @@ based on their rating.
 
 **Versions:**
 
-Java 1.8.0_202 
+Java 1.8.0_202  ![image](https://github.com/kaithisharath92/NewDay/assets/132219522/e2f984c4-6249-404d-a661-aa3773222a43)
+
 Spark: 3.1.3
 IntelliJ idea: IntelliJ IDEA 2022.3.2 (Community Edition) 
 Maven 3.8.8
