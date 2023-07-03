@@ -30,14 +30,20 @@ Below are the commands for maven.
 
 
 **Spark submit command**:
-C:\Users\shara>spark-submit --master "local" --deploy-mode "client" --jars C:\Users\shara\NewDayProject\newDayAssignment\target\MovieRatings-1.0-SNAPSHOT.jar --class org.newDay.assignment.MovieRatings  C:\Users\shara\NewDayProject\MovieRatings\target\MovieRatings-1.0-SNAPSHOT.jar C:\Users\shara\Downloads\ml-1m\movies.DAT C:\Users\shara\Downloads\ml-1m\ratings.DAT C:\Users\shara\Downloads\ml-1m\moviesStats.parquet  C:\Users\shara\Downloads\ml-1m\ratings.parquet
+spark-submit \
+--master "local" \
+--deploy-mode "client" \
+--jars NewDayProject\newDayAssignment\target\MovieRatings-1.0-SNAPSHOT.jar \
+--class org.newDay.assignment.MovieRatings  \
+NewDayProject\MovieRatings\target\MovieRatings-1.0-SNAPSHOT.jar \
+<Path for movies>\movies.DAT \
+<path for ratings >\ratings.DAT \
+<path for movie stats >\moviesStats.parquet  \
+<path for top movies >\ratings.parquet \
 
 
 
-<<movies.DAT>>  
-<<ratings.DAT>>
-<<moviesStats.parquet>>
-<<ratings.parquet>>
+
 
 
 
